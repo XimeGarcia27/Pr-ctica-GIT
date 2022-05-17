@@ -138,7 +138,7 @@
 ************/
 
 #main-header {
-    background: #333;
+    background: rgb(51, 94, 97);
     color: white;
     height: 80px;
     width: 100%;
@@ -159,7 +159,7 @@
 ************/
 
 #main-footer {
-    background: #333;
+    background: rgb(51, 94, 97);
     color: white;
     text-align: center;
     padding: 20px;
